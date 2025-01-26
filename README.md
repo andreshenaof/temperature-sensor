@@ -1,4 +1,7 @@
 # temperature-sensor
+
+![My Image](Sketch_connection.png)
+
 This program runs on an ESP8266 microcontroller and is designed to:
 
     Connect to Wi-Fi: It starts by connecting the ESP8266 to a specified Wi-Fi network using the provided SSID and password.

@@ -1,4 +1,4 @@
-# temperature-sensor
+# Wifi - temperature - sensor with board ESP8266
 
 ![My Image](Sketch_connection.png)
 
